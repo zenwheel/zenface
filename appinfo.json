@@ -1,0 +1,39 @@
+{
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/ProFontIIx.ttf",
+                "type": "font",
+                "name": "FONT_PRO_24",
+                "characterRegex": "[ap0-9: ]"
+            }
+        ]
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "uuid": "2dc92763-4e14-4b51-9b9f-340cca125775",
+    "shortName": "zenface",
+    "versionCode": 1,
+    "companyName": "sjann@knight-rider.org",
+    "appKeys": {
+        "KEY_INVERT": 4,
+        "KEY_WEATHER": 7,
+        "KEY_LATITUDE": 1,
+        "KEY_SHOW_SECONDS": 3,
+        "KEY_LONGITUDE": 2,
+        "KEY_TEMPERATURE_MIN": 10,
+        "KEY_TEMPERATURE": 0,
+        "KEY_UNITS": 9,
+        "KEY_LOCATION": 6,
+        "KEY_TIMEZONE": 5,
+        "KEY_TEMPERATURE_MAX": 11,
+        "KEY_UPDATE": 8
+    },
+    "longName": "zenface",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
